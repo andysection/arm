@@ -17,6 +17,7 @@
 ## 资料参考
 ### 结构
 * [3轴机械臂3D打印件](https://www.thingiverse.com/thing:1684471) 
+* [3轴机械臂3D打印件2](https://www.thingiverse.com/thing:34829)
 
 ### 学习资料
 * [台大机器人学之运动学——林沛群](https://www.bilibili.com/video/BV1v4411H7ez/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=04ac2404a3155012bb7e7b5d847d5646)
